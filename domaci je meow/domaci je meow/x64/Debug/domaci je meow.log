@@ -1,0 +1,3 @@
+﻿  domaci je meow.cpp
+C:\Users\Nikola Popovic\source\repos\domaci je meow\domaci je meow\domaci je meow.cpp(18,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  domaci je meow.vcxproj -> C:\Users\Nikola Popovic\source\repos\domaci je meow\x64\Debug\domaci je meow.exe

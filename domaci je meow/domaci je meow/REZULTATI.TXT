@@ -1,0 +1,3 @@
+prosek: 497.691
+Zbir: 497690982
+nadprosecni: 498946
